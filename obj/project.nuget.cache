@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWC4jcSm0Kk94YoHqoNHBCN4qaekYxRoFDfU4lkXhb7/vc58blM6ADdG8wA2B5uSQURBvLP9fkNFeqZxzvmv0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\obraz\\source\\repos\\WebApplication19\\WebApplication19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obraz\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
